@@ -19,3 +19,4 @@ const deadline = Date.now() + Number(seconds) * 1000;
   console.error(err.message);
   process.exit(1);
 });
+if(true){}
